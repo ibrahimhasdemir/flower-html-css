@@ -1,5 +1,4 @@
 # Flower project
-flower-html-css
 HTML ve CSS kullanılarak oluşturulmuş temiz bir web sayfasıdır. 
 Farklı ekran boyutlarında görüntülenebilir.
 Kullanılan Teknolojiler:
